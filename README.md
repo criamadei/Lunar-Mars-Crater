@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Crater Detection Demo](crater_detection_demo.gif)
+![Crater Detection Demo](assets/crater_detection_demo.gif)
 
 **Advanced crater detection on Lunar and Martian surfaces using YOLOv8**
 
@@ -61,7 +61,7 @@ The notebook provides a complete end-to-end pipeline from data preparation to mo
 
 The model successfully detects craters across diverse terrain conditions:
 
-![Crater Detection Demo](crater_detection_demo.gif)
+![Crater Detection Demo](assets/crater_detection_demo.gif)
 
 ---
 
@@ -184,11 +184,11 @@ The model achieves strong performance after 100 epochs:
 
 ### Training Curves
 
-![Training Results](results.png)
+![Training Results](assets/results.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](assets/confusion_matrix.png)
 
 ---
 
