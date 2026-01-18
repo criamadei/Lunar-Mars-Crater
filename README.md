@@ -63,8 +63,6 @@ The model successfully detects craters across diverse terrain conditions:
 
 ![Crater Detection Demo](crater_detection_demo.gif)
 
-> **Note**: Replace `crater_detection_demo.gif` with your own GIF file by adding it to the repository or linking to an external URL.
-
 ---
 
 ## 📦 Dataset
@@ -186,11 +184,11 @@ The model achieves strong performance after 100 epochs:
 
 ### Training Curves
 
-![Training Results](lunar_crater_project/yolo_run/results.png)
+![Training Results](results.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](lunar_crater_project/yolo_run/confusion_matrix. png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
